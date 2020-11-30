@@ -1,0 +1,16 @@
+.mat-dialog-title {
+  display: flex;
+  align-items: center;
+  mat-icon {
+    color: red;
+  }
+}
+
+mat-dialog-content {
+  text-align: center;
+}
+
+#error-btn {
+  background-color: red;
+  color: white;
+}
